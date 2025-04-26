@@ -12,7 +12,7 @@
 - Flexbox ✅.
 - Responsividade com FlexBox ✅.
 
-## **📋 Paleta de Cores**
+## **🎨 Paleta de Cores**
 
 ![Paleta-de-Cores](https://i.postimg.cc/W3bBbzQv/Captura-de-tela-2025-04-26-124522.png)
 
