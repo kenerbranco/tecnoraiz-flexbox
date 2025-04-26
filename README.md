@@ -2,6 +2,8 @@
 
 - Site utilizado para treinar e estudar flexbox.
 
+**Resultado:**
+
 ![Landing-Page-TecnoRaiz](https://i.postimg.cc/xT1sbL4B/Captura-de-tela-2025-04-26-124111.png)
 
 **Conceitos desenvolvidos durante o projeto pelo môdulo CSS Flexbox:**
